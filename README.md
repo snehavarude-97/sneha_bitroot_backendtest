@@ -1,9 +1,9 @@
 # sneha_bitroot_backendtest
-This is backend created by sneha varude for the bitroot companies test project
-Create Contact List API (Test)
-Backend Software Engineer (Intern) Test (Bitroot.org)
+* This is backend created by sneha varude for the bitroot company test project
+* Create Contact List API (Test)
+* Test is conducted for Backend Software Engineer (Intern) Test (Bitroot.org)
 
-Functionalities
+* Functionalities :
 Create New Contact
 Delete Contact
 Fetch All Contacts
